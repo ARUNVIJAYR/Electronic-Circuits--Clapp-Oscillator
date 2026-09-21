@@ -40,7 +40,8 @@ PC with LT Spice software
 33.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 34.	## THEORITICAL CALCULATION:
-35.	
+35.	<img width="2172" height="3780" alt="IMG_20260920_212554" src="https://github.com/user-attachments/assets/711ef072-b4c4-4519-b183-00e1ec35d887" />
+
 37.	## OUTPUTS:
 <img width="1893" height="800" alt="Screenshot 2026-09-11 121536" src="https://github.com/user-attachments/assets/08ad8633-1b41-46de-bce6-80a94bd0b5d3" />
 
